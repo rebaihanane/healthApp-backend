@@ -48,5 +48,4 @@ public class HopitalController {
 		hopitalDao.delete(hopital);
 	}
 	
-	
 }
